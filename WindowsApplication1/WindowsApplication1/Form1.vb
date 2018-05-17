@@ -11,4 +11,12 @@
         End If
 
     End Sub
+
+    Private Sub TextBox1_TextChanged(sender As Object, e As EventArgs) Handles TextBox1.TextChanged
+
+    End Sub
+
+    Private Sub btnstart_Click(sender As Object, e As EventArgs) Handles btnstart.Click
+        TextBox1.Text = "Bonjour"
+    End Sub
 End Class
