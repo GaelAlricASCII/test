@@ -1,1 +1,11 @@
 C:\Users\GALRIC\Documents\GitHub\Test\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\GALRIC\Documents\GitHub\Test\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\GALRIC\Documents\GitHub\Test\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\GALRIC\Documents\GitHub\Test\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\GALRIC\Documents\GitHub\Test\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\GALRIC\Documents\GitHub\Test\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\GALRIC\Documents\GitHub\Test\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\GALRIC\Documents\GitHub\Test\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\GALRIC\Documents\GitHub\Test\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\GALRIC\Documents\GitHub\Test\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\GALRIC\Documents\GitHub\Test\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
