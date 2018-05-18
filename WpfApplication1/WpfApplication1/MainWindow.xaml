@@ -1,0 +1,25 @@
+﻿<Window x:Class="MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="424.686" Width="612.866" Visibility="Visible">
+    <Grid Margin="-113,-179,-243,-370" Background="{DynamicResource {x:Static SystemColors.InactiveBorderBrushKey}}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="145*"/>
+            <ColumnDefinition Width="56*"/>
+        </Grid.ColumnDefinitions>
+        <Ellipse Fill="#FFF4F4F5" Margin="13,21,10,314" Stroke="Black"/>
+        <CheckBox x:Name="checkBox" Content="CheckBox" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Button x:Name="button" Content="Button" HorizontalAlignment="Left" Margin="122,502,0,0" VerticalAlignment="Top" Width="123" Height="99"/>
+        <Button x:Name="button_Copy" Content="Button" HorizontalAlignment="Left" Margin="337,502,0,0" VerticalAlignment="Top" Width="123" Height="99"/>
+        <Button x:Name="button_Copy1" Content="Button" HorizontalAlignment="Left" Margin="542,502,0,0" VerticalAlignment="Top" Width="123" Height="99"/>
+        <Button x:Name="button_Copy2" Content="Button" HorizontalAlignment="Left" Margin="40,502,0,0" VerticalAlignment="Top" Width="123" Height="99" Grid.Column="1"/>
+        <Button x:Name="button_Copy3" Content="Button" HorizontalAlignment="Left" Margin="226,644,0,0" VerticalAlignment="Top" Width="123" Height="99" RenderTransformOrigin="1.454,2.037"/>
+        <Button x:Name="button_Copy4" Content="Button" HorizontalAlignment="Left" Margin="428,644,0,0" VerticalAlignment="Top" Width="123" Height="99" RenderTransformOrigin="3.24,1.918"/>
+        <Button x:Name="button_Copy5" Content="Button" HorizontalAlignment="Left" Margin="636,644,0,0" VerticalAlignment="Top" Width="123" Height="99" Grid.ColumnSpan="2"/>
+        <Button x:Name="button_Copy6" Content="Button" HorizontalAlignment="Left" Margin="428,760,0,0" VerticalAlignment="Top" Width="123" Height="99"/>
+    </Grid>
+</Window>
